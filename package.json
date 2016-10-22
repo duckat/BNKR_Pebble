@@ -1,0 +1,26 @@
+{
+    "author": "anthonysunghoonkim@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "bnkr",
+    "pebble": {
+        "displayName": "BNKR",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "native",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "60bee64c-42e4-4c7d-a626-73d8b429520a",
+        "watchapp": {
+            "watchface": false
+        }
+    },
+    "version": "1.0.0"
+}
